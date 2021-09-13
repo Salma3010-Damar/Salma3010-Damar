@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Salma3010-Damar
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning phython
+- 🌱 I’m currently learning JavaScirpt
 - 💞️ I’m looking to collaborate on coding
 
 
